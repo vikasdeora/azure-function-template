@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "a79f1bd5-91e8-4c51-9082-b4afb27da2c0",
+    "WEBSITE_NODE_DEFAULT_VERSION": "8.11.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=ftleadscrmdev9e08;AccountKey=japRIS1AshzimQvNYcZ3l73lVvpzGzOXBPcXKTZauNsDaoExsSFhGP1wUv2mZWxL6dCS//wL7facDpKYGrc20w==",
+    "WEBSITE_CONTENTSHARE": "ft-leads-crm-dev9e08",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "ft-leads-crm-dev",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ftleadscrmdev9e08;AccountKey=japRIS1AshzimQvNYcZ3l73lVvpzGzOXBPcXKTZauNsDaoExsSFhGP1wUv2mZWxL6dCS//wL7facDpKYGrc20w=="
+  }
+}
